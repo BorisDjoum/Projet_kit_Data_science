@@ -3,9 +3,16 @@
 Projet Kit Data Science
 
 **Membres du groupe :**
-**1 :** NJIMOH PASSO Berthoni
-**2 :** TCHATCHUENG DJOUM Gilles Boris
-**3 :** Welehela Patricia
+
+**1 :** Welehela Patricia
+
+**2 :** Marie-France ONIA EFUTO
+
+**3 :** NJIMOH PASSO Berthoni
+
+**4 :** TCHATCHUENG DJOUM Gilles Boris
+
+
 
 ## Question business
 
